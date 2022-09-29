@@ -1,2 +1,2 @@
 # Car Price Prediction
- Car price predeiction and deployment using FastAPI, Flask and Streamlit
+ Car price prediction and deployment using FastAPI, Flask and Streamlit
